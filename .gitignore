@@ -1,0 +1,12 @@
+
+#VScode Config files
+.vscode
+
+# Mac default files
+.DS_Store
+
+#Objects files
+*.o
+stars
+test
+stars.exe
